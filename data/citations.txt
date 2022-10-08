@@ -1,0 +1,9 @@
+@article{dougan2014ncbi,
+  title={NCBI disease corpus: a resource for disease name recognition and concept normalization},
+  author={Do{\u{g}}an, Rezarta Islamaj and Leaman, Robert and Lu, Zhiyong},
+  journal={Journal of biomedical informatics},
+  volume={47},
+  pages={1--10},
+  year={2014},
+  publisher={Elsevier}
+}
